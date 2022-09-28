@@ -1,0 +1,88 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "code": "pain",
+        "name": "Pain"
+      },
+      {
+        "id": 2,
+        "code": "antiseptic",
+        "name": "Antiseptic"
+      },
+      {
+        "id": 3,
+        "code": "antiallergics",
+        "name": "Antiallergics"
+      },
+      {
+        "id": 4,
+        "code": "vitamin",
+        "name": "Vitamin"
+      }
+    ],
+    "products": [
+      {
+        "id": 0,
+        "title": "Paracetamol",
+        "body": "The expired date is 2024-09-14",
+        "price": 74,
+        "brand": "Company A",
+        "category": "pain"
+      },
+      {
+        "id": 1,
+        "title": "Acriflavin",
+        "body": "The expired date is 2024-09-14",
+        "price": "36.00",
+        "brand": "Company B",
+        "category": "antiseptic"
+      },
+      {
+        "id": 5,
+        "title": "Chlorpheniramine",
+        "body": "The expired date is 2024-09-14",
+        "price": "54.00",
+        "brand": "Company B",
+        "category": "antiallergics"
+      },
+      {
+        "id": 6,
+        "title": "Calcium",
+        "body": "The expired date is 2024-09-14",
+        "price": "50.00",
+        "brand": "Company C",
+        "category": "vitamin"
+      },
+      {
+        "id": 7,
+        "title": "Vitamin A",
+        "body": "The expired date is 2024-09-14",
+        "price": "55.00",
+        "brand": "Company D",
+        "category": "vitamin"
+      }
+    ],
+    "users": [
+      {
+        "id": 100,
+        "name": "johnsmith",
+        "email": "john@gmail.com",
+        "password": "john@123",
+        "address": "JK Street",
+          "pincode": 343433,
+          "city": "NewYork"
+        
+      },
+      {
+        "id": 101,
+        "name": "marrysmith",
+        "email": "marry@gmail.com",
+        "password": "marry@123",
+        "address":"ABC Street",
+          "pincode": 343433,
+          "city": "NewYork"
+        
+      }
+    ]
+  }
